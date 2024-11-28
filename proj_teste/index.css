@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background: no-repeat;
+    background-image: url(./img/samsung-galaxy-3840x2160-14320.jpg);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cabe{
+    width: 100%;
+    height: 135px;
+}
+
+.logo img{
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.elements{
+    display: flex;
+    margin-left: 1580px;
+    margin-top: -79px;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 290px;
+    font-size: 85px;
+}
+
+.boxElem{
+    width: 1750px;
+    height: 600px;
+    margin-top: 200px;
+    background-color: rgba(149, 33, 226, 0.61);
+    border-radius: 10px;
+}
+
+.container02{
+    display: flex;
+    justify-content: center;
+}
+
+.card01{
+    width: 360px;
+    height: 435px;
+    background-color: white;
+    border-radius: 11px;
+}
+
+.card02{
+    width: 360px;
+    height: 435px;
+    background-color: white;
+    border-radius: 11px;
+}
+
+.card03{
+    width: 360px;
+    height: 435px;
+    background-color: white;
+    border-radius: 11px;
+}
+
+.card{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.esfCard01{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: rgb(0, 0, 0);
+}
+
+.esfCard02{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: rgb(0, 0, 0);
+}
+
+.esfCard03{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: rgb(0, 0, 0);
+}
+
+.container03{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 120px;
+}
+
+
